@@ -7,3 +7,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [X] El mejor jugador de la historia es Messi
+- [ ] El peor jugador de la historia es Cristiano Ronaldo
+- [X] El mundial es el campeonato mas buscado por los jugadores
